@@ -1,0 +1,1 @@
+####Bu klasörde temel seviyede, daha basit java örnekleri mevcuttur.
