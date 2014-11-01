@@ -1,1 +1,1 @@
-###Bu klasörde Java programlama diliyle yazılmış Projelerim bulunmaktadır.
+###Bu klasörde Java programlama diliyle yazılmış örnekler ve  Projelerim bulunmaktadır.
